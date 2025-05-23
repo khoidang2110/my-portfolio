@@ -108,6 +108,14 @@ h6 {
   margin-bottom: 24px;
   font-weight: 600;
 }
+.portfolio-content img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+ 
+
+}
+
 
 .php-email-form .loading {
   display: none;
